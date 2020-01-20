@@ -4,11 +4,11 @@
 
 The goal of this project is to combine everything you have learned about data wrangling, cleaning, and manipulation with Pandas so you can see how it all works together. For this project, you will start with this messy data set [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). 
 
-*** import the dataset
-*** analyse the data using pandas
-*** clean it up
-*** prepare it to be analyzed
-*** export it as a clean CSV
+* import the dataset
+* analyse the data using pandas
+* clean it up
+* prepare it to be analyzed
+* export it as a clean CSV
 
 ---
 
