@@ -1,0 +1,11 @@
+	imdb_id	id	original_title	popularity	vote_average	vote_count	genre_ids	release_date
+0	tt0145487	557	Spider-Man	21.442	7.1	11020	[28, 14]	2002-05-01
+1	tt0145937	21925	Naqoyqatsi	6.688	6.4	73	[99, 18, 10402, 53]	2002-09-02
+2	tt0146309	11973	Thirteen Days	8.947	7.0	366	[53]	2000-12-24
+3	tt0146316	1995	Lara Croft: Tomb Raider	17.617	5.8	4081	[28, 12, 14, 53]	2001-06-11
+4	tt0146882	243	High Fidelity	11.807	7.2	1118	[35, 18, 10402, 10749]	2000-03-17
+5	tt0146984	4958	The Legend of Bagger Vance	7.109	6.6	511	[18, 14]	2000-11-02
+6	tt0148421	174412	Looking for an Echo	2.107	0.0	0	[]	2000-11-10
+7	tt0149367	31776	Where the Money Is	4.851	6.0	25	[35, 80, 18]	2000-04-14
+8	tt0149624	21355	All the Pretty Horses	6.965	5.9	101	[18, 10749, 37]	2000-12-11
+9	tt0151150	131940	जोश	5.41	5.8	34	[10749, 18]	2000-06-09

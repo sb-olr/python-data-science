@@ -1,0 +1,11 @@
+	imdb_id	id	original_title	popularity	vote_average	vote_count	genre_ids	release_date
+0	tt0120917	11688	The Emperor's New Groove	20.306	7.5	3822	[12, 16, 35, 14, 10751]	2000-12-09
+1	tt0121164	3933	Corpse Bride	17.282	7.4	4938	[16, 14, 10749]	2005-09-12
+2	tt0121765	1894	Star Wars: Episode II - Attack of the Clones	19.756	6.5	8143	[28, 12, 878]	2002-05-15
+3	tt0121766	1895	Star Wars: Episode III - Revenge of the Sith	19.15	7.3	8415	[28, 12, 878]	2005-05-17
+4	tt0122459	2621	Return to Me	8.571	6.4	121	[35, 10749]	2000-04-07
+5	tt0125022	10833	Heartbreakers	12.338	5.9	489	[35, 80, 10749]	2001-03-23
+6	tt0126029	808	Shrek	21.641	7.6	9720	[12, 16, 35, 10751, 14]	2001-05-16
+7	tt0127349	37722	Waking the Dead	5.564	6.8	42	[9648, 18, 10749]	2000-03-24
+8	tt0130623	10567	Dinosaur	12.037	6.4	1342	[16, 10751]	2000-05-19
+9	tt0131704	17711	The Adventures of Rocky & Bullwinkle	8.462	4.0	215	[12, 16, 35, 14, 10751]	2000-06-30

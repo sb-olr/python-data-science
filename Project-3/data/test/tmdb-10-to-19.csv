@@ -1,0 +1,11 @@
+	imdb_id	id	original_title	popularity	vote_average	vote_count	genre_ids	release_date
+0	tt0120679	1360	Frida	10.099	7.5	1148	[18, 10749]	2002-08-29
+1	tt0120681	768	From Hell	12.178	6.7	1610	[27, 9648, 53]	2001-10-19
+2	tt0120737	120	The Lord of the Rings: The Fellowship of the Ring	37.218	8.3	15906	[28, 12, 14]	2001-12-18
+3	tt0120753	318	The Million Dollar Hotel	6.291	6.1	157	[18, 53]	2000-02-09
+4	tt0120755	955	Mission: Impossible II	19.681	6.1	3921	[12, 28, 53]	2000-05-24
+5	tt0120804	1576	Resident Evil	11.644	6.5	3762	[28, 27, 878]	2002-03-15
+6	tt0120824	6440	The Shipping News	8.414	6.4	201	[18, 10749]	2001-12-18
+7	tt0120903	36657	X-Men	1.103	7.0	7517	[12, 28, 878]	2000-07-13
+8	tt0120912	608	Men in Black II	31.631	6.3	6418	[28, 12, 35, 878]	2002-07-03
+9	tt0120913	7450	Titan A.E.	11.187	6.5	566	[28, 12, 16, 878, 10751]	2000-06-16

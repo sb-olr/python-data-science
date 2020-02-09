@@ -1,0 +1,11 @@
+	imdb_id	id	original_title	popularity	vote_average	vote_count	genre_ids	release_date
+0	tt0153464	47724	Up at the Villa	2.758	5.7	13	[18, 10749]	2000-04-14
+1	tt0156323	19419	Screwed	5.046	5.6	37	[28, 35]	2000-05-12
+2	tt0156757	43079	Mad About Mambo	3.723	5.4	19	[35, 10749]	2000-04-04
+3	tt0156812	17908	My Dog Skip	7.849	6.6	151	[35, 18, 10751]	2000-01-14
+4	tt0156841	1831	The Next Best Thing	5.672	5.0	84	[35]	2000-03-03
+5	tt0157472	15028	Clockstoppers	8.715	5.0	151	[12, 10751, 878, 53]	2002-03-17
+6	tt0158622	889	The Flintstones in Viva Rock Vegas	9.847	4.6	397	[35, 10749, 10751]	2000-04-28
+7	tt0159273	8007	Behind Enemy Lines	15.401	6.2	780	[28, 18, 53, 10752]	2001-11-30
+8	tt0159365	2289	Cold Mountain	11.287	6.9	1013	[12, 18, 36, 10749]	2003-12-24
+9	tt0160009	11398	The Art of War	7.903	5.7	260	[80, 28, 12]	2000-08-23

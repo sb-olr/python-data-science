@@ -1,0 +1,11 @@
+	imdb_id	id	original_title	popularity	vote_average	vote_count	genre_ids	release_date
+0	tt0160127	4327	Charlie's Angels	16.701	5.7	2582	[28, 12, 35, 80, 53]	2000-11-02
+1	tt0160184	10375	D-Tox	12.473	5.6	258	[28, 27, 53]	2002-01-04
+2	tt0160484	10383	Lost Souls	6.534	4.9	83	[27, 53]	2000-10-13
+3	tt0160644	19214	Passion of Mind	3.495	5.8	18	[18, 10749]	2000-01-07
+4	tt0160797	10479	Rules of Engagement	11.875	6.1	333	[28, 12, 18, 36, 10752]	2000-04-07
+5	tt0160905	110989	Spooky House	2.96	5.5	11	[12, 9648, 10751]	2002-04-19
+6	tt0161081	2655	What Lies Beneath	12.294	6.4	1020	[18, 27, 9648, 53]	2000-07-21
+7	tt0161083	14034	What's the Worst That Could Happen?	7.087	5.2	129	[28, 35]	2001-05-31
+8	tt0161216	18153	Steal This Movie	4.255	6.1	17	[18]	2000-08-18
+9	tt0161860	1591	Nirgendwo in Afrika	5.282	7.4	66	[18]	2001-12-11

@@ -1,0 +1,11 @@
+	imdb_id	id	original_title	popularity	vote_average	vote_count	genre_ids	release_date
+0	tt0138946	19457	The Yards	7.822	6.3	205	[80, 18, 10749, 53]	2000-10-20
+1	tt0139654	2034	Training Day	14.612	7.4	3179	[28, 80, 18, 53]	2001-10-05
+2	tt0141399	75531	Isn't She Great	2.277	4.5	22	[35, 18]	2000-01-28
+3	tt0141907	24113	Town & Country	4.28	4.4	35	[35, 10749]	2001-04-27
+4	tt0141926	3536	U-571	11.485	6.3	600	[28, 18, 53, 10752]	2000-04-20
+5	tt0144084	1359	American Psycho	15.119	7.4	4930	[53, 18, 80, 27]	2000-04-13
+6	tt0144142	40562	Committed	4.163	4.8	22	[35, 18]	2000-04-18
+7	tt0144528	12107	Nutty Professor II: The Klumps	9.559	4.9	775	[35, 14, 878, 10749]	2000-07-27
+8	tt0144608	123187	Sinbad: Beyond the Veil of Mists	2.81	4.8	12	[14, 878, 10751]	2000-03-24
+9	tt0144964	12211	Highlander: Endgame	11.943	4.6	194	[28, 14]	2000-09-01

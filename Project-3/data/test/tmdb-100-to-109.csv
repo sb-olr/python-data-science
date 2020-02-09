@@ -1,0 +1,11 @@
+	imdb_id	id	original_title	popularity	vote_average	vote_count	genre_ids	release_date
+0	tt0167260	122	The Lord of the Rings: The Return of the King	35.163	8.4	14516	[28, 12, 14]	2003-12-01
+1	tt0167261	121	The Lord of the Rings: The Two Towers	35.27	8.3	13711	[28, 12, 14]	2002-12-18
+2	tt0167456	14623	Thunderbirds	9.327	4.6	168	[28, 12, 35, 14, 878, 10751]	2004-07-23
+3	tt0168515	26244	Phish: Bittersweet Motel	1.705	6.3	4	[99, 10402]	2000-08-25
+4	tt0168629	16	Dancer in the Dark	13.511	7.9	903	[18, 80, 10402]	2000-05-17
+5	tt0168786	13435	Antwone Fisher	8.757	6.9	244	[18, 10749]	2002-12-19
+6	tt0169102	19666	लगान	9.697	7.4	265	[12, 18, 10402, 10749]	2001-06-15
+7	tt0170016	8871	How the Grinch Stole Christmas	16.998	6.6	4100	[35, 14, 10751]	2000-11-17
+8	tt0170452	201724	Prince of Central Park	2.061	4.7	11	[10751]	2000-09-22
+9	tt0170691	10687	Tigerland	7.608	6.7	278	[18, 10752]	2000-09-22
